@@ -1,0 +1,10 @@
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\bin\Debug\Keyboard Grabber.exe.config
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\bin\Debug\Keyboard Grabber.exe
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\bin\Debug\Keyboard Grabber.pdb
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\obj\Debug\Keyboard Grabber.csproj.AssemblyReference.cache
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\obj\Debug\Keyboard_Grabber.s.resources
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\obj\Debug\Keyboard_Grabber.Properties.Resources.resources
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\obj\Debug\Keyboard Grabber.csproj.GenerateResource.cache
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\obj\Debug\Keyboard Grabber.csproj.CoreCompileInputs.cache
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\obj\Debug\Keyboard Grabber.exe
+C:\Users\hiran\Desktop\Keyboard Grabber\Keyboard Grabber\obj\Debug\Keyboard Grabber.pdb
